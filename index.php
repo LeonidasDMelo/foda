@@ -78,9 +78,7 @@
     <a href="index.html">Inicio</a>
 </nav>
 <body>
-    <?php
-echo "My first PHP script!";
-?>
+
 
     <div class="container">
         <h1>Entre em contato</h1>
